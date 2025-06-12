@@ -6,7 +6,7 @@
 
 .navbar {
     height: 60px;
-    background-color: #0f1111;
+    background-color: #000;
     color: white;
     display: flex;
     align-items: center;
@@ -19,14 +19,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    object-fit: contain;
 }
 
 .logo {
-    background-image: url("amazon_logo.png");
-    background-size: cover;
     height: 50px;
     width: 100%;
+    object-fit: contain;
 }
 
 .border {
@@ -195,7 +193,7 @@ span {
 /** Hero Section **/
 
 .hero-section {
-    background-image: url(hero_image.jpg);
+    background-image: url(HomePage/hero_image.jpg);
     height: 350px;
     background-size: cover;
     display: flex;
