@@ -1,4 +1,4 @@
-# Shopwise - E-Commerce Platform
+# Shopwise E-Commerce Platform
 
 A responsive e-commerce web application built with HTML, CSS, and JavaScript.
 
